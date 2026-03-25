@@ -1,0 +1,21 @@
+# Ignore the full GCAM input/executable/libs install
+exe/
+libs/
+input/
+logs/
+restart/
+
+# Ignore large database outputs
+output/database_basexdb/
+
+# But track notebooks and scenario XMLs
+!notebooks/
+!scenarios/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
