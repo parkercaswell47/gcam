@@ -27,3 +27,4 @@ __pycache__/
 
 # Claude
 .claude/
+.ipynb_checkpoints/
