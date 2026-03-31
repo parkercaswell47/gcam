@@ -8,7 +8,7 @@
 
 **2. ANALYZE FIRST.** Read relevant files before any change. Glob before creating. Never assume.
 
-**3. ONE CHANGE AT A TIME.** Explain it, wait for confirmation, then do it. No batching.
+**3. ONE CHANGE AT A TIME.** Explain it, wait for confirmation, then do it. No batching. "Let's do X" is NOT authorization — it is an invitation to discuss. Ask before creating any file, running any research agent, or taking any action beyond reading.
 
 **4. NEVER MENTION THE NEXT RUN** until current run has: (1) exited cleanly, (2) name confirmed in DB, (3) no "did not solve correctly" in log.
 
